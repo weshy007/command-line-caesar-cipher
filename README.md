@@ -17,10 +17,6 @@ This is a project of making a decrypting App which uses the shift method
 - You are then asked how many pushes you want to encrypt your text
 - You are given the output
 
-## Bugs Noticed
-- The delivery option is failing and fee not appending in total
-- The list isn't showing the number of pizzas ordered
-
 ## License
-This project is licenced under the MIT Licence - see the [LICENCE]( "Licence") file for details
+This project is licenced under the MIT Licence - see the [LICENCE](https://github.com/weshy007/command-line-caesar-cipher/blob/master/LICENCE "Licence") file for details
 - copyright 2021 - Waithaka Waweru
